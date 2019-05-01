@@ -1,0 +1,1 @@
+# newsFeedApp_nuxt2-firebase
